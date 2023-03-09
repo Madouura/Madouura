@@ -1,5 +1,5 @@
 ## About Me
-$\color{limegreen}\textsf{>implying}$
+>implying
 
 ## Statistics
 ![Overview](https://raw.githubusercontent.com/Madouura/github-stats/master/generated/overview.svg#gh-dark-mode-only)
